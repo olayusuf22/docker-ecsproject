@@ -45,3 +45,4 @@
     * select create new target group and enter a name
     * Create the service 
 4. Go to load balancer in EC2, copy the dns name and paste in a browser to see the application working.
+    make sure to give inbound rule port 80 
